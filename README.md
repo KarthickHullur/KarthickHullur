@@ -12,7 +12,6 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 ---
 
 
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthick-hullur-b7b221270/)
@@ -25,4 +24,4 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 ---
 
 
----
+
