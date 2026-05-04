@@ -8,11 +8,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science Student from Bengaluru  
-- ☁️ Focused on AWS, Cloud Architecture & Security  
-- 🔐 Building real-world Cloud Security projects  
-- 🎯 Goal: Cloud Security Engineer (Top Tech / Automotive 🚗)  
-- 🌱 Currently learning: Docker, Kubernetes, Advanced AWS  
+- 🎓 Computer Science Student  
+- ☁️ Focused on AWS, Cloud Architecture & Cloud Security   
+- 🌱 Currently learning: AWS, Docker, Kubernetes, Cloud Security & Edge Security
 
 ---
 
