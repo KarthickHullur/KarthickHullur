@@ -4,7 +4,7 @@
 AWS | Docker | Kubernetes | Cloudflare Edge Security
 </p>
 
-## 🧑‍💻 About Me
+## 🥷 About Me
 - 🎓 Computer Science Student  
 - ☁️ Focused on AWS, Cloud Architecture & Cloud Security   
 - 🌱 Currently learning: AWS, Docker, Kubernetes, Cloud Security & Edge Security
@@ -19,7 +19,7 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,go,git,github,jenkins,js" />
 
 ---
