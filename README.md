@@ -29,7 +29,12 @@
 
 ## 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,Golang,github,nginx,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,go" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cloud%20Security-Expert-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloudflare-Security-orange?style=for-the-badge&logo=cloudflare" />
 </p>
 
 ---
