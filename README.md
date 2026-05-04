@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Karthick Hullur</h1>
-<h3 align="center">🚀 Aspiring Cloud Security Engineer | AWS | DevOps</h3>
+<h3 align="center">Cloud Security Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+%7C+Docker+%7C+Kubernetes;Future+Cloud+Security+Expert" />
+AWS | Docker | Kubernetes | Cloudflare Edge Security
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
