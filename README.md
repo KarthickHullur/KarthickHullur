@@ -14,8 +14,6 @@
 
 ---
 
-## 🏆 Certifications
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws)
 
 ---
 
