@@ -21,5 +21,8 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 ---
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,go,git,github,jenkins,js" />
-## ⚡ Fun Fact
- Passionate about breaking things... only to secure them better
+
+---
+
+
+---
