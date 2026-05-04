@@ -22,15 +22,11 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 
 ## 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,go,Javascript" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,go,git,github,githubactions,js" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Cloud%20Security-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge&logo=cloudflare" />
+<img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge" />
 </p>
----
----
-
 ## ⚡ Fun Fact
  Passionate about breaking things... only to secure them better
