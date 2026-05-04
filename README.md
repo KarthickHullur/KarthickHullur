@@ -1,9 +1,6 @@
-<h3 align="center">Cloud Security Enthusiast</h3>
-
 <p align="center">
-AWS | Docker | Kubernetes | Cloudflare Edge Security
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=Cloud+Security+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Cloudflare+Edge+Security" />
 </p>
----
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Student  
