@@ -30,11 +30,6 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 <img src="https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge&logo=cloudflare" />
 </p>
 ---
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthickHullur&show_icons=true&theme=tokyonight&cache_seconds=60)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickHullur&layout=compact&theme=tokyonight&cache_seconds=60)
-
 ---
 
 ## ⚡ Fun Fact
