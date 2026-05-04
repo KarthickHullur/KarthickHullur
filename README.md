@@ -32,24 +32,16 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 ---
 
 ## 📊 GitHub Stats
-![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthickHullur&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthickHullur&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickHullur&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=KarthickHullur&theme=tokyonight)
-
 ---
 
-## 📌 Featured Projects
-- 🔐 AWS Cloud Threat Detection System  
-- ☁️ Serverless Text-to-Speech Pipeline  
-- 🌍 Secure Multi-Region Cloud Platform  
-- 🐳 Docker Flask Applications  
+
 
 ---
 
 ## ⚡ Fun Fact
-💡 Building secure cloud systems for the future 🚀
+ Passionate about breaking things... only to secure them better
