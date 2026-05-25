@@ -6,7 +6,7 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 
 ## 🥷 About Me
 - 🎓 Computer Science Student  
-- ☁️ Focused on AWS, Cloud Architecture & Cloud Security   
+- ☁️ Focused on AWS, DevOps, Cloud Architecture & Cloud Security   
 - 🌱 Currently learning: AWS, Docker, Kubernetes, Cloud Security & Edge Security
 
 ---
