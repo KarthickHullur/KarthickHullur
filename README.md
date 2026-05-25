@@ -20,8 +20,7 @@ AWS | Docker | Kubernetes | Cloudflare Edge Security
 ---
 
 ## 🧑‍💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,python,go,git,github,jenkins,js,linux" /> 
-
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,prometheus,grafana,linux,python,go,github,nginx,kali" />
 ---
 
 
