@@ -5,9 +5,9 @@ Cloud Security| AWS | Azure | DevSecOps
 </p>
 
 ## 🥷 About Me
-- 🎓 Computer Science Student  
-- ☁️ Focused on AWS, DevOps, Cloud Architecture & Cloud Security   
-- 🌱 Currently learning: AWS, Docker, Kubernetes, Cloud Security & Edge Security
+ Computer Science Student  
+ Focused on AWS, DevOps, Cloud Architecture & Cloud Security   
+ Currently learning: AWS, Docker, Kubernetes, Cloud Security & Edge Security
 
 ---
 
