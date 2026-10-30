@@ -1,7 +1,7 @@
 <h3 align="center">Cloud Security Enthusiast</h3>
 
 <p align="center">
-AWS | Docker | Kubernetes | Cloudflare Edge Security
+Cloud Security| AWS | Azure | DevSecOps
 </p>
 
 ## 🥷 About Me
